@@ -1,7 +1,8 @@
 # samples
 This repository contains sample assets for testing the various algorithms developed as part of the ComKardia software application
 
-## Windows
+## Setup repository
+### For Windows
 
 If you are a Window's user, clone this repository at the root of the `C:/` drive.
 
@@ -20,7 +21,7 @@ The name of the environment variable is `SAMPLES_DIR` and the value of the varia
 
 **Note:** Make sure you add this environment variable to both the user profile as well as the system profile.
 
-## Linux & macOS
+### Linux & macOS
 
 If you are a Unix user (Linux & macOS), clone this repository at the root of your home folder.
 
