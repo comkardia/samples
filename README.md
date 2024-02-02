@@ -38,14 +38,14 @@ SAMPLES_DIR=~/samples
 
 The name of the environment variable is `SAMPLES_DIR` and the value of the variable is `~/samples`. If you know the complete path, then expand the value of `~` to its's full value.
 
-**Note:** If you are using `bash` as your preferred shell, make sure you add this environment variable to both .bashrc and .bash_profile
+**Note:** If you are using `bash` as your preferred shell, make sure you add this environment variable to both `.bashrc` and `.bash_profile`
 
 ```bash
 echo "export SAMPLES_DIR=~/samples" >> .bashrc
 echo "export SAMPLES_DIR=~/samples" >> .bash_profile
 ```
 
-**Note:** If you are using `zsh` as your preferred shell, make sure you add this environment variable to both .zshrc and .zprofile
+**Note:** If you are using `zsh` as your preferred shell, make sure you add this environment variable to both `.zshrc` and `.zprofile`
 
 ```bash
 echo "export SAMPLES_DIR=~/samples" >> .zshrc
