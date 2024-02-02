@@ -51,3 +51,10 @@ echo "export SAMPLES_DIR=~/samples" >> .bash_profile
 echo "export SAMPLES_DIR=~/samples" >> .zshrc
 echo "export SAMPLES_DIR=~/samples" >> .zprofile
 ```
+
+## Updates
+From time to time, perform a `git pull` action to sync with the latest updates to this repository. If you notice tests failing because of some files not being found, it is likely that your local copy of the repository does not have them yet, and hence the `git pull`.
+
+You might also need to commit new files to the repository from time to time. You can add files to the repository by creating a new branch from master, commiting new files to it, and then making a PR against the master branch. 
+
+If the merging of this PR is required for the tests to pass on a different PR on another repository, then contact the reviewer through any official channel, and let them know that this is a priority PR.
