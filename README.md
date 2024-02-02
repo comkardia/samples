@@ -1,7 +1,7 @@
 # samples
 This repository contains sample assets for testing the various algorithms developed as part of the ComKardia software application
 
-## Setup repository
+## Setup Repository
 ### For Windows
 
 If you are a Window's user, clone this repository at the root of the `C:/` drive.
